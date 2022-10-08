@@ -18,6 +18,6 @@ public class TestFlowLayout {
         frame.add(button1);
         frame.add(button2);
         frame.add(button3);
-
+        
     }
 }
